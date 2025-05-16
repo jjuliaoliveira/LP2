@@ -1,0 +1,18 @@
+Dada uma frase 100 letras (incluindo os brancos), utilizando um componente do
+tipo RichText e três botões, escreva um programa que leia esta frase e calcule e
+mostre usando 3 tipos de LOOPS diferentes (um em cada botão) dos vistos em aula:
+-O número de espaços em branco que existem na frase.
+-O número de vezes que aparece a letra “R”.
+-O número de vezes que ocorre um mesmo par de letras na frase.
+---------------------------------------------
+Fazer um programa para gerar o número H. O número N será fornecido em um
+TextBox. Testar se N é maior que 0.
+H=1+1/2 +1/3+1/4+1/5+...+1/N, utilizar instruções For.
+---------------------------------------------
+Faça um programa que leia uma sequência de caracteres(não deve ser 
+maior do que 50) de um textbox. Mostre-a e diga se é um palíndromo ou não.
+Não esqueça de retirar os espaços em branco da frase e
+transformá-la em maiúscula/minúscula.
+---------------------------------------------
+A forma de cálculo do salário bruto dos funcionários de uma empresa é a seguinte:
+salário bruto=A+Ax(0,05xB+0,1xC+0,1xD)+Total de gratificações. ?:
