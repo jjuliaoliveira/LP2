@@ -1,0 +1,3 @@
+Criar uma aplicação Pclasses. Dentro dela criar as seguintes classes,
+observe que as subclasses Mensalista e Horista são especialização da classe
+Empregado, portanto irão utilizar herança.
