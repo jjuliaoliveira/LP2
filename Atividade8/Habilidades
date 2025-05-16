@@ -1,0 +1,34 @@
+Criar um aplicação que no 1º formulário (principal) terá 5 botões.
+Cada botão vai chamar um exercício.
+-------------------------------------------
+Faça um programa que carregue (usando InputBox)
+uma lista 20 números inteiros colocando-os em um
+vetor (um a um), após o carregamento mostre-os na
+ordem inversa. Para mostrar na ordem inversa utilize
+o método reverse ou faça um for ao contrário.
+-------------------------------------------
+Crie uma matriz para guardar as 3 notas (nota1, nota2,
+nota3) de uma disciplina de uma turma de 20 alunos.
+Considere os alunos como as linhas e as notas como as
+colunas. Receba os dados via InputBox. A nota deve estar em
+0 e 10. Calcule e mostre a média de cada aluno
+média=(nota1+nota2+nota3)/3 de maneira que a saída
+(usando concatenação de string).
+-------------------------------------------
+Criar uma aplicação que carregue (InputBox) os nomes completos de 10 pessoas 
+em um vetor. Verifique o tamanho em caracteres (comprimento) de cada nome,
+DESCONTANDO OS ESPAÇOS EM BRANCO, e armazene esse valor em um outro
+vetor. No final carregar os nomes e valores em um componente ListBox. Os nomes
+não podem ser vazios ou espaço em branco.
+-------------------------------------------
+Criar uma matriz N x 10 (considere N o último digito do
+seu RA mais um, se for 0 considere N=2) que representa o
+número de alunos, e 10 é o número de questões.
+-Crie um vetor (já com dados) para guardar o gabarito de
+respostas das 10 questões que podem ser: A, B, C, D ou E.
+-As respostas devem ser recebidas via InputBox, e deverão
+ser comparadas com as respostas do gabarito, e devem ser
+mostradas em um componente ListBox.
+-Asrespostas só podem serA, B, C, D ou E (maiúsculas).
+-Utilizar normalização para os nomes dos componentes e
+variáveis
