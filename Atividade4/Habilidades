@@ -1,0 +1,30 @@
+Crie um Form com dois TextBoxs e um botão para verificar se os dois textos são iguais
+(usando o método String.compare).
+
+Um botão para inserir o texto do primeiro TextBox no meio do
+segundo (usando Length e Substring). Colocar o resultado no segundo TextBox.
+
+Um botão para inserir 2 asteriscos no meio do texto do primeiro
+TextBox (usando Length e Insert) e colocar o resultado no
+segundo TextBox.
+------------------------------------------------------
+Crie um form com dois TextBoxs e: Um botão que remova as ocorrências do
+Texto 1 no Texto 2 (usando replace).
+
+Um botão que retorne o texto 1 de trás para frente
+(usando Array.reverse).
+------------------------------------------------------
+ Crie um form com um componente tipo RichText e: Um botão que mostre
+quantos caracteres numéricos existem dentro desse componente 
+(usando isNumber e while).
+
+Um botão que localize o primeiro caracter branco e mostre a sua posição 
+(usando isWhiteSpace e for).
+
+Um botão que mostre quantos caracteres alfabéticos
+existem dentro desse componente (usando isLetter e
+foreach).
+------------------------------------------------------
+Crie um form com TextBoxse: Um botão que realize um sorteio entre o
+primeiro e o segundo número. (usando random). Testar se é número e se
+numero1 é menor que numero2.
