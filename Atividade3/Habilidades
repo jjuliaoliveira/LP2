@@ -1,0 +1,8 @@
+Criar uma aplicação para calcular e mostrar o IMC (indice de massa corporal de uma pessoaa).
+Usar componentes label, buttons, textBox ou maskedTextBox.
+Altura e peso devem ser numeros e maiores que zero.
+------------------------------------------------------
+Criar uma aplicação que a partir de 3 valores fornecidos pelo usuário: A, B e C (testar se são números),
+verificar se eles podem pertencer aos lados de um triângulo, e caso sim, informar se é isósceles,
+equilátero ou escaleno. Não pode receber vazio e nem zero
+
